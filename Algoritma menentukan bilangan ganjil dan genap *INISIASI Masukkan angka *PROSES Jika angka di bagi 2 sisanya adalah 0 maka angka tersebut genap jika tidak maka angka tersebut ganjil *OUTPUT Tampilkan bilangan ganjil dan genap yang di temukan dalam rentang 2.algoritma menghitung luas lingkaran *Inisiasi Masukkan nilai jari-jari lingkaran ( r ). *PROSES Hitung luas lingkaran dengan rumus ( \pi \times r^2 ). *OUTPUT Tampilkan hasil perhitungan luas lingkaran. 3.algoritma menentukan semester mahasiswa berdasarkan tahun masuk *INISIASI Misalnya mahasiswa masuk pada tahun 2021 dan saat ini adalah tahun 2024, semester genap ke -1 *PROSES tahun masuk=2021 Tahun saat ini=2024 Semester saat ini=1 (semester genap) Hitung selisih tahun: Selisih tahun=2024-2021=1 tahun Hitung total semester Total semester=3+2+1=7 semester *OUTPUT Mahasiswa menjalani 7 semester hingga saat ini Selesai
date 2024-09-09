@@ -1,0 +1,34 @@
+Membuka
+ALGORITMA STRUKTUR DATA
+#1
+Alda952 membuka masalah ini 4 hari yang lalu · 0 komentar
+Komentar
+Alda952 memberi komentar 4 hari yang lalu
+1.Algoritma menentukan bilangan ganjil dan genap
+*INISIASI
+Memasukkan angka
+*PROSES
+Jika angka di bagi 2 sisanya adalah 0 maka angka tersebut genap jika tidak maka angka tersebut ganjil
+*OUTPUT
+Menampilkan bilangan ganjil dan genap yang ditemukan dalam rentang
+2.algoritma menghitung luas lingkaran
+* Inisiasi
+Masukkan nilai jari-jari lingkaran ( r ).
+*PROSES
+Hitung luas lingkaran dengan rumus ( \pi \times r^2 ).
+*OUTPUT
+Menampilkan hasil perhitungan luas lingkaran.
+3.algoritma menentukan mahasiswa semester berdasarkan tahun masuk
+*INISIASI
+misalnya mahasiswa masuk pada tahun 2021 dan saat ini adalah tahun 2024, semester genap ke -1
+*PROSES
+tahun masuk=2021
+Tahun saat ini=2024
+Semester saat ini=1 (semester genap)
+Hitung selisih tahun:
+Selisih tahun=2024-2021=1 tahun
+Hitung total semester
+Total semester=3+2+1=7 semester
+*OUTPUT
+Mahasiswa menjalani 7 semester hingga saat ini
+Selesai
